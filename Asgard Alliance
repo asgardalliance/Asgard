@@ -1,0 +1,27 @@
+name: Asgard Alliance
+key: Asgard
+color: red
+emblem: A_Char_Rocket_02
+info:
+  logo: /static/img/brands/logo/racf.svg
+  description: >
+    **100 Thieves** is an esports team competing in the North American region of Clash Royale League.
+    The eight trophy-pushing clans below comprise the ladder branch of the organization.
+    The clans are home to many experienced tournament players, including three participants in the Crown Duel.
+    The clans were created as a result of a merger and re-branding of the Reddit Alpha Clan Family,
+    founded by Woody in January 2016.
+  social:
+    - discord: http://discord.gg/CtSkkYf
+    clans:
+  - name: Ultra Fusion
+    tag: 8VV22CP9
+  - name: Valhalla
+    tag: 2P9JJYPL
+  - name: Royale Family
+    tag: 9G2RCJJC
+  - name: Folkvangr
+    tag: 828Q0PJ2
+  - name: Helheim
+    tag: 99JVRY00
+  - name: Jotunheim
+    tag: PP82PVJL
